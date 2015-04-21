@@ -16,6 +16,8 @@ Enjoy it.
 
 ### Uninstall with CleanMyMac 3
 
+Uninstall app, plugin, or widget with CleanMyMac 3.
+
 [Download](https://raw.githubusercontent.com/FradSer/Alfred-Workflows-by-FradSer/master/Uninstall%20with%20CleanMyMac%203/Uninstall%20with%20CleanMyMac%203.alfredworkflow
 )
 
@@ -23,9 +25,9 @@ Enjoy it.
 
 ### QuickDNS
 
-Now you can quick setup DNS setting adn support 114\ V2EX\ Google\ OpenDNS\ **Ali** and default.
+Now you can quick setup DNS setting. (support 114\ V2EX\ Google\ OpenDNS\ **Ali** and default.)
 
-[Download](https://raw.githubusercontent.com/FradSer/Alfred-Workflows-by-FradSer/master/Uninstall%20with%20CleanMyMac%203/Uninstall%20with%20CleanMyMac%203.alfredworkflow
+[Download](https://raw.githubusercontent.com/FradSer/Alfred-Workflows-by-FradSer/master/QuickDNS/QuickDNS.alfredworkflow
 )
 
-![QuickDNS](https://raw.githubusercontent.com/FradSer/Alfred-Workflows-by-FradSer/master/img/Screen_Shot_2015-04-11.png)
+![QuickDNS](https://raw.githubusercontent.com/FradSer/Alfred-Workflows-by-FradSer/master/img/Screen_Shot_2015-04-21.png)
