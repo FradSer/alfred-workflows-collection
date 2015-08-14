@@ -32,7 +32,7 @@ Now you can quick setup DNS setting. (support 114\ V2EX\ Google\ OpenDNS\ **Ali*
 
 ![QuickDNS](http://d.pr/i/10FIp+)
 
-### Open in Chrome/Safari
+### Open in Chrome
 
 Open tab in Chrome from Safari, open tab in Safari from Chrome.
 
