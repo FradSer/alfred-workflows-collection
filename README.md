@@ -39,3 +39,11 @@ Open tab in Chrome from Safari, open tab in Safari from Chrome.
 [Download](https://github.com/FradSer/Alfred-Workflows-by-FradSer/raw/develop/Open%20in%20Chrome/Open%20in%20Chrome.alfredworkflow)
 
 ![Open in Chrome](http://d.pr/i/Ni0A+)
+
+### Terminal&Finder
+
+Open currently selected Finder window in Terminal and vice versa.
+
+![1](http://d.pr/i/17zR0+)
+
+![2](http://d.pr/i/1lkft+)
