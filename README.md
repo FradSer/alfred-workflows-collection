@@ -27,8 +27,8 @@ Uninstall app, plugin, or widget with CleanMyMac 3.
 
 Now you can quick setup DNS setting. (support 114\ V2EX\ Google\ OpenDNS\ **Ali** and default.)
 
-####Updated - December 22, 2015
-	1. Fixed a problem when you use USB Ethernet, please test.
+	Updated - December 22, 2015
+	1. Fixed a problem when you use USB Ethernet, please test. Use [this method](http://stackoverflow.com/questions/23504181/bash-scripting-in-os-x-making-networksetup-changes "osx - bash scripting in os x -- making networksetup changes - Stack Overflow") from Gordon Davisson.
 
 [Download](https://raw.githubusercontent.com/FradSer/Alfred-Workflows-by-FradSer/master/QuickDNS/QuickDNS.alfredworkflow
 )
